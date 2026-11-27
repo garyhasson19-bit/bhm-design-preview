@@ -1,0 +1,24 @@
+# BHM design
+
+> BHM design aide hôtels, restaurants et cafés du monde entier à être trouvés sur Google et cités par les IA. Audit gratuit.
+
+## Services
+- Optimisation de la fiche Google Business Profile : La fiche Google Business Profile est la carte d’identité de votre établissement dans Google et Google Maps : adresse, horaires, photos, avis.
+- SEO local : Le SEO local, c’est apparaître dans les résultats quand quelqu’un cherche près de chez vous : « café Ixelles », « hôtel Knokke ».
+- GEO : être cité par les IA : Le GEO (Generative Engine Optimization) rend votre établissement facile à citer pour ChatGPT, Perplexity et Google AI.
+
+Mise en place à partir de 200 € par service, puis suivi mensuel. Audit gratuit. Contact : hello.bhmdesign@gmail.com
+
+## Pages
+- [Services : fiche Google, SEO local, GEO | BHM design](https://garyhasson19-bit.github.io/bhm-design-preview/services/)
+- [Tarifs : mise en place et suivi mensuel | BHM design](https://garyhasson19-bit.github.io/bhm-design-preview/tarifs/)
+- [Questions fréquentes : GEO, SEO local, prix | BHM design](https://garyhasson19-bit.github.io/bhm-design-preview/faq/)
+- [Audit gratuit de votre fiche Google | BHM design](https://garyhasson19-bit.github.io/bhm-design-preview/audit-gratuit/)
+- [Diensten: Google-profiel, lokale SEO, GEO | BHM design](https://garyhasson19-bit.github.io/bhm-design-preview/nl/diensten/)
+- [Tarieven: opzet en maandelijkse opvolging | BHM design](https://garyhasson19-bit.github.io/bhm-design-preview/nl/tarieven/)
+- [Veelgestelde vragen: GEO, lokale SEO, prijs | BHM design](https://garyhasson19-bit.github.io/bhm-design-preview/nl/veelgestelde-vragen/)
+- [Gratis audit van je Google-profiel | BHM design](https://garyhasson19-bit.github.io/bhm-design-preview/nl/gratis-audit/)
+- [Services: Google listing, local SEO, GEO | BHM design](https://garyhasson19-bit.github.io/bhm-design-preview/en/services/)
+- [Pricing: setup and monthly follow-up | BHM design](https://garyhasson19-bit.github.io/bhm-design-preview/en/pricing/)
+- [FAQ: GEO, local SEO, pricing | BHM design](https://garyhasson19-bit.github.io/bhm-design-preview/en/faq/)
+- [Free audit of your Google listing | BHM design](https://garyhasson19-bit.github.io/bhm-design-preview/en/free-audit/)
